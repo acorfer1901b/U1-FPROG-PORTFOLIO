@@ -1,0 +1,6 @@
+# act02_variables.py
+x = "Ada Lovelace"
+a = 36
+h = 1.65
+s = True
+print(f"{x} | {a} | {h} m")
